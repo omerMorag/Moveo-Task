@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Moveo-Task/static/css/main.dbd37e80.chunk.css",
+    "main.js": "/Moveo-Task/static/js/main.6f3dfb47.chunk.js",
+    "main.js.map": "/Moveo-Task/static/js/main.6f3dfb47.chunk.js.map",
+    "runtime-main.js": "/Moveo-Task/static/js/runtime-main.eac23405.js",
+    "runtime-main.js.map": "/Moveo-Task/static/js/runtime-main.eac23405.js.map",
+    "static/js/2.7bf9d524.chunk.js": "/Moveo-Task/static/js/2.7bf9d524.chunk.js",
+    "static/js/2.7bf9d524.chunk.js.map": "/Moveo-Task/static/js/2.7bf9d524.chunk.js.map",
+    "index.html": "/Moveo-Task/index.html",
+    "static/css/main.dbd37e80.chunk.css.map": "/Moveo-Task/static/css/main.dbd37e80.chunk.css.map",
+    "static/js/2.7bf9d524.chunk.js.LICENSE.txt": "/Moveo-Task/static/js/2.7bf9d524.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/Moveo-Task/static/media/EncodeSans-VariableFont_wdth,wght.7571ba67.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eac23405.js",
+    "static/js/2.7bf9d524.chunk.js",
+    "static/css/main.dbd37e80.chunk.css",
+    "static/js/main.6f3dfb47.chunk.js"
+  ]
+}
